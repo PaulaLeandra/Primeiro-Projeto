@@ -1,1 +1,7 @@
 Teste de commitação para o git
+
+git status
+git add .
+git status
+git commit -m "teste de inclusão de texto"
+git push origin main
