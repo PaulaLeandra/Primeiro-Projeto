@@ -1,0 +1,21 @@
+1. "cd" e "git init"
+Inicialização de um repositório no Git
+Exemplo: cd/c/user/nome_do_seu_projeto", depois "git init"
+
+
+2. "git glone"
+
+O "git clone" é responsável por fazer uma cópia da versão mais atualizada de um projeto que está no repositóio e a mesma é salva no computador.
+git clone https://github.com/libgit2/libgit2
+
+3. "git add ."
+Adicionar todos os arquivos na pasta
+
+4. "git commit -m "Nome da alteração" e "git push origin main"
+Comando utilizados para commitar um arquivo para o Github
+
+5. "git status"
+Verificação do estado dos arquivos
+
+6. "ls"
+Listar configurações
