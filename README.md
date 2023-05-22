@@ -1,4 +1,4 @@
-![file:///F:/Desenhos/87.png](F:\Desenhos\87.png)
+(F:\Desenhos\87.png)
 
 # Primeiro Projeto
 
