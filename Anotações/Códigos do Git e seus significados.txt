@@ -3,7 +3,7 @@ Inicialização de um repositório no Git
 Exemplo: cd/c/user/nome_do_seu_projeto", depois "git init"
 
 
-2. "git glone"
+2. "git clone"
 
 O "git clone" é responsável por fazer uma cópia da versão mais atualizada de um projeto que está no repositóio e a mesma é salva no computador.
 git clone https://github.com/libgit2/libgit2
