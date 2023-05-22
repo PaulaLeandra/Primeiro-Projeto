@@ -24,3 +24,7 @@ Assim como eu, há outras pessoas que podem se sentir perdidas quando estão apr
 * [O que são Git e Github?](https://www.youtube.com/watch?v=P4BNi_yPehc)			
 
 * [O QUE É GIT E GITHUB? - definição e conceitos importantes](https://www.youtube.com/watch?v=DqTITcMq68k)
+
+### Links
+
+[Site para arrumar erros no Git](https://www.freecodecamp.org/news/error-failed-to-push-some-refs-to-how-to-fix-in-git/)
