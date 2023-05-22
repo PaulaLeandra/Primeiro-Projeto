@@ -1,4 +1,4 @@
-(F:\Desenhos\87.png)
+
 
 # Primeiro Projeto
 
