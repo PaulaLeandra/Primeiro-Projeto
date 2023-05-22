@@ -1,6 +1,3 @@
-<div align="center">
-<img src="file:///F:/Desenhos/87.png" width="0px" />
-</div>
 
 # Primeiro Projeto
 
